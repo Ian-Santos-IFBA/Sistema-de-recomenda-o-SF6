@@ -1,0 +1,22 @@
+[
+    {"input": "Quero um personagem do arquétipo shoto com estilo balanceado e dificuldade média.", "label": "Ryu"},
+    {"input": "Quero um personagem do arquétipo rushdown com estilo agressivo e dificuldade fácil.", "label": "Ken"},
+    {"input": "Quero um personagem do arquétipo zoner com estilo defensivo e dificuldade alta.", "label": "Dhalsim"},
+    {"input": "Quero um personagem do arquétipo grappler com estilo agarrões poderosos e dificuldade média.", "label": "Zangief"},
+    {"input": "Quero um personagem do arquétipo mix-up com estilo imprevisível e dificuldade média.", "label": "Juri"},
+    {"input": "Quero um personagem do gênero/sexo feminino com o cabelo preto, em coques, roupa azul e pernas musculosas.", "label": "Chun-Li"},
+    {"input": "Quero um personagem do gênero/sexo masculino com o cabelo loiro, roupa vermelha e ataques com chamas.", "label": "Ken"},
+    {"input": "Quero um personagem do gênero/sexo masculino com o cabelo verde, aparência selvagem e ataques elétricos.", "label": "Blanka"},
+    {"input": "Quero um personagem do gênero/sexo feminino com o cabelo loiro, roupa de balé e estilo elegante.", "label": "Manon"},
+    {"input": "Quero um personagem do gênero/sexo masculino com o cabelo preto, kimono branco e faixa vermelha.", "label": "Ryu"},
+    {"input": "Personagem defensivo com foco em projéteis e antiaéreos.", "label": "Guile"},
+    {"input": "Personagem rápido com foco em pressão e mobilidade.", "label": "Cammy"},
+    {"input": "Personagem com ataques venenosos e estilo traiçoeiro.", "label": "A.K.I."},
+    {"input": "Personagem com golpes lentos, mas extremamente poderosos.", "label": "Marisa"},
+    {"input": "Personagem com controle de espaço e ataques a longa distância.", "label": "JP"},
+    {"input": "Mulher asiática, cabelo preto, roupa roxa e estilo provocante.", "label": "Juri"},
+    {"input": "Homem musculoso, barba ruiva, calção vermelho e agarrões devastadores.", "label": "Zangief"},
+    {"input": "Mulher com cabelo em tranças coloridas, estilo urbano e movimentos energéticos.", "label": "Kimberly"},
+    {"input": "Homem com cabelo castanho, turbinas e movimentos aéreos rápidos.", "label": "Rashid"},
+    {"input": "Personagem com estilo de luta baseado em ritmo e dança.", "label": "Dee Jay"}
+]

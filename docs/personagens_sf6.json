@@ -1,0 +1,453 @@
+{
+
+    "chars":[
+        
+        {
+            "Nome": "Ryu",
+            "Gênero": "Masculino",
+            "Arquétipo": "Shoto",
+            "EstiloDeJogo": "Balanceado",
+            "Dificuldade": "Fácil",
+            "Aparência": {
+                "Cabelo": "Preto, curto, espetado para trás",
+                "Rosto": "Maxilar largo, olhos pequenos, barba por fazer",
+                "Corpo": "Musculoso, tronco largo, postura imponente",
+                "Altura": "Alto (cerca de 1,75m - 1,80m)",
+                "Traje": "Kimono branco rasgado nas mangas, faixa preta, luvas vermelhas",
+                "Outros": "Cicatriz no peito, expressão sempre séria",
+                "IdadeAparente": "Cerca de 40 anos"
+            },
+            "Desc": "Ryu, o icônico guerreiro errante da franquia Street Fighter, retorna em Street Fighter 6 com uma aparência e espírito renovados. Em sua jornada contínua por autoconhecimento e aprimoramento, ele agora ostenta uma barba espessa e veste um kasaya que remete diretamente ao seu mestre, Gouken. Essa mudança visual simboliza sua maturidade espiritual e seu domínio das artes marciais, além de indicar que ele superou o lado obscuro de sua alma — o temido Satsui no Hado. Ao longo da série, Ryu sempre representou a essência da perseverança e da disciplina. Em Street Fighter 6, isso continua mais presente do que nunca. Ele deixou para trás a luta interna contra a corrupção do poder e agora está mais focado em servir como exemplo para as novas gerações. Seu objetivo não é apenas tornar-se mais forte, mas também transmitir sabedoria, mantendo sempre a humildade. No campo de batalha, Ryu é o arquétipo do personagem balanceado. Ele é ideal tanto para iniciantes quanto para jogadores experientes, graças ao seu conjunto de movimentos bem distribuído entre ataque, defesa e controle de espaço. Seus golpes clássicos — o Hadoken (bola de energia), o Shoryuken (gancho ascendente) e o Tatsumaki Senpukyaku (chute giratório) — continuam sendo ferramentas essenciais em seu arsenal. Em Street Fighter 6, ele também ganha novas variações e propriedades, que o tornam mais flexível nas estratégias de combate. Ryu é um personagem que recompensa paciência, leitura do oponente e execução precisa. Sua presença serena e seu estilo metódico contrastam com lutadores mais caóticos, tornando-o uma âncora de estabilidade no elenco. Em termos de narrativa, ele ocupa o papel do mentor, aquele que carrega os valores mais profundos da luta: respeito, esforço e superação. Seu legado como protagonista da série é inegável. Em Street Fighter 6, ele não é apenas um herói veterano — é um símbolo vivo da filosofia da luta. Com sua postura firme, fala contida e determinação inabalável, Ryu continua inspirando jogadores de todo o mundo a nunca desistirem da busca pela verdadeira força.",
+            "Notas": "Ryu é o lutador símbolo da franquia. Representa os fundamentos dos jogos de luta com foco em precisão, controle de espaço e paciência. Seus movimentos são clássicos e diretos, como Hadoken, Shoryuken e Tatsumaki. Ótima escolha para iniciantes entenderem ritmo e posicionamento no SF6."
+        },
+        {
+            "Nome": "Ken",
+            "Gênero": "Masculino",
+            "Arquétipo": "Shoto",
+            "EstiloDeJogo": "Rushdown",
+            "Dificuldade": "Fácil",
+            "Aparência": {
+                "Cabelo": "Loiro, comprido até os ombros, preso em rabo de cavalo",
+                "Rosto": "Expressivo, sobrancelhas marcantes, olhos vivos",
+                "Corpo": "Atlético, musculoso, similar ao Ryu",
+                "Altura": "Semelhante ao Ryu",
+                "Traje": "Kimono vermelho rasgado nas mangas, luvas pretas",
+                "Outros": "Aura de fogo em ataques especiais",
+                "IdadeAparente": "Final dos 30"
+            },
+            "Notas": "Ken é o rival de Ryu e foca mais em pressão e agressividade. Seus golpes são mais rápidos, com forte mobilidade e combos ofensivos. Excelente para quem gosta de avançar e manter o oponente sob pressão constante.",
+            "Desc": "Ken Masters é um homem norte-americano, caucasiano, loiro, com cabelos compridos amarrados em rabo de cavalo, olhos azuis intensos e um físico musculoso. Ele mede cerca de 1,78 m e tem uma postura imponente e confiante. Em Street Fighter 6, Ken apresenta um visual mais maduro e desgastado, com roupas urbanas e casuais, como um casaco vermelho, calças jeans escuras, botas e luvas de combate. Sua aparência carrega o peso de uma crise pessoal, já que ele foi falsamente acusado de terrorismo e vive afastado de sua família e de sua antiga vida como campeão. Ken é impulsivo, competitivo e emocional, contrastando com a calma e introspecção de Ryu, seu melhor amigo e eterno rival. Apesar das dificuldades, ele mantém seu senso de justiça e sua chama interior, buscando redenção. Seu estilo de luta também é baseado no karatê ansatsuken, mas adaptado com mais agressividade, velocidade e mobilidade ofensiva. Ele possui versões flamejantes de seus golpes clássicos, como o Hadoken, Shoryuken e Tatsumaki, além de movimentos que permitem pressionar o adversário de forma constante. Ken é indicado para jogadores que gostam de manter a ofensiva e aplicar pressão constante, e sua história em SF6 mostra um homem determinado a limpar seu nome e reconquistar seu lugar no mundo."
+            
+        },
+        {
+            "Nome": "Chun-Li",
+            "Gênero": "Feminino",
+            "Arquétipo": "Neutral",
+            "EstiloDeJogo": "Footsies / Controle de espaço",
+            "Dificuldade": "Difícil",
+            "Aparência": {
+                "Cabelo": "Preto, preso em dois coques com laços",
+                "Rosto": "Delicado, olhos grandes e expressivos",
+                "Corpo": "Forte, coxas extremamente musculosas",
+                "Altura": "Alta e imponente",
+                "Traje": "Cheongsam azul adaptado para combate, botas brancas",
+                "Outros": "Pulseiras metálicas pesadas",
+                "IdadeAparente": "Cerca de 35 anos"
+            },
+            "Notas": "Chun-Li é ágil e técnica, com muitos ataques normais fortes e grande alcance nas pernas. Ideal para jogadores que dominam spacing e punem erros com precisão. Requer execução técnica para aproveitar ao máximo.",
+            "Desc":"Chun-Li é uma mulher asiática, chinesa, de porte atlético e elegante, com cerca de 1,70 m de altura, cabelos pretos longos presos em dois coques laterais cobertos por fitas brancas, olhos castanho-escuros e traços faciais delicados, mas fortes. Sua vestimenta em Street Fighter 6 é uma variação mais tradicional e serena, com um vestido moderno de inspiração chinesa em azul e branco, calças justas e sapatos baixos para performance em combate. Chun-Li é uma personagem de imensa importância na história da franquia, sendo a primeira mulher jogável da série. Ela é nobre, protetora e disciplinada, tendo trabalhado durante anos como agente da Interpol e se tornando um ícone de justiça e resistência contra o crime. Em Street Fighter 6, ela está parcialmente aposentada das missões internacionais, vivendo como mentora e professora de artes marciais para jovens carentes. Seu estilo de luta é baseado no Tai Chi misturado com movimentos acrobáticos, fazendo dela uma das personagens mais rápidas e técnicas do jogo. Ela usa uma variedade de chutes poderosos e velozes, como o Spinning Bird Kick (chute giratório invertido) e o Lightning Legs (série de chutes velozes em sequência). Chun-Li é ideal para jogadores com bons reflexos e senso de ritmo, e representa equilíbrio entre compaixão e força."
+        },
+        {
+            "Nome": "Guile",
+            "Gênero": "Masculino",
+            "Arquétipo": "Zoner",
+            "EstiloDeJogo": "Defensivo",
+            "Dificuldade": "Média",
+            "Aparência": {
+                "Cabelo": "Loiro, cortado em flat top militar",
+                "Rosto": "Quadrado, maxilar marcado, óculos escuros",
+                "Corpo": "Muito musculoso, típico de militar",
+                "Altura": "Bem alto",
+                "Traje": "Uniforme camuflado, botas de combate",
+                "Outros": "Postura rígida, presença dominante",
+                "IdadeAparente": "40 anos"
+            },
+            "Notas": "Guile é mestre do jogo defensivo e zoning. Seus ataques carregados como Sonic Boom e Flash Kick são letais se bem utilizados. Exige paciência e bom controle de tela, ótimo para jogadores táticos.",
+            "Desc": "Guile é um soldado norte-americano de elite, alto, musculoso, com cabelo loiro espetado em forma de escudo e uma expressão séria e focada. Ele usa uniforme militar modificado – regata verde, calças camufladas e botas – com tatuagens patrióticas nos ombros, incluindo a bandeira dos Estados Unidos. Guile é um homem de princípios, leal a seus companheiros e marcado pela perda de seu amigo Charlie Nash, o que motiva seu senso de justiça e disciplina. Ele é um guerreiro silencioso, cuja rigidez esconde a dor e o orgulho de um soldado que luta por paz verdadeira. Em combate, Guile usa o estilo militar de luta, com chutes bem fundamentados, socos potentes e domínio total do campo por meio dos ataques Sonic Boom e Flash Kick. Ele é um dos mestres do zoning, mantendo o inimigo à distância com projéteis e antiaéreos precisos. Seu estilo é voltado para defesa sólida, paciência e contra-ataques letais. Guile representa patriotismo, disciplina militar e a força que resiste mesmo quando carrega cicatrizes invisíveis."
+        },
+        {
+            "Nome": "Cammy",
+            "Gênero": "Feminino",
+            "Arquétipo": "Rushdown",
+            "EstiloDeJogo": "Velocidade e pressão constante",
+            "Dificuldade": "Média",
+            "Aparência": {
+                "Cabelo": "Loiro, em tranças longas",
+                "Rosto": "Marcado, olhos azuis intensos",
+                "Corpo": "Atlética e ágil, muito flexível",
+                "Altura": "Estatura média",
+                "Traje": "Macacão azul justo com boina vermelha",
+                "Outros": "Postura felina, sempre pronta pra atacar",
+                "IdadeAparente": "30 anos"
+            },
+            "Notas": "Cammy é perfeita para quem gosta de velocidade. Seus golpes são rápidos, seus movimentos têm ótima recuperação, e ela pune erros facilmente. Requer reflexos e domínio de movimentação.",
+            "Desc": "Cammy White é uma mulher britânica, de cerca de 1,65 m de altura, corpo atlético e ágil, musculatura definida e postura sempre preparada para ação. Ela tem olhos azuis penetrantes, cabelos loiros presos em duas longas tranças que caem pelas costas e um rosto sério que raramente expressa emoção. Cammy usa uma roupa colada ao corpo de cor verde-musgo com boina vermelha, luvas vermelhas e botas militares, mantendo uma estética de agente de elite. Ex-integrante do esquadrão Delta Red, Cammy foi criada como uma das Dolls, soldados manipulados por Bison, mas se libertou e agora luta para proteger outras vítimas e redimir seu passado. Fria, disciplinada e direta, ela age sempre com foco na missão. Em combate, Cammy usa um estilo de luta baseado em velocidade extrema, movimentos baixos e chutes giratórios devastadores. Ela é especializada em ataques rápidos, pressão intensa e crossups aéreos. Seu estilo favorece jogadores ofensivos, que gostam de entrar e sair rapidamente, quebrando defesas com agressividade técnica. Cammy representa redenção, foco absoluto e o espírito de uma guerreira treinada para ser uma máquina, mas que escolheu ser humana."
+        },
+        {
+            "Nome": "Luke",
+            "Gênero": "Masculino",
+            "Arquétipo": "Shoto",
+            "EstiloDeJogo": "Pressão e combos",
+            "Dificuldade": "Fácil",
+            "Aparência": {
+                "Cabelo": "Loiro, curto com topete desarrumado",
+                "Rosto": "Jovem, sorriso confiante",
+                "Corpo": "Definido, musculatura média",
+                "Altura": "Levemente mais baixo que Ryu e Ken",
+                "Traje": "Camiseta esportiva, luvas azuis, calça de combate",
+                "Outros": "Postura casual, muito expressivo",
+                "IdadeAparente": "25 anos"
+            },
+            "Notas": "Luke é o novo protagonista e feito para atrair novos jogadores. Seus botões são fortes, tem combos acessíveis, e ótimo controle de tela. Ideal para iniciantes que querem impacto imediato.",
+            "Desc": "Luke Sullivan é um homem jovem, norte-americano, de aproximadamente 1,83 m de altura, corpo musculoso e atlético, com cabelos loiros curtos, olhos azuis e uma atitude extrovertida e carismática. Ele usa uma regata azul, calças militares e luvas brancas, com um estilo visual que mistura esportividade e estilo urbano moderno. Luke é ex-soldado e atualmente instrutor em programas de treinamento global, com espírito competitivo e energético. Em Street Fighter 6, ele ocupa o papel de protagonista central, sendo o novo rosto da série e um elo entre o elenco clássico e os novatos. Ele é confiante, brincalhão, e provoca seus oponentes com sarcasmo e piadas durante os combates. Seu estilo de luta é misto, com socos diretos inspirados em boxe e MMA, além de ataques com projéteis rápidos e pressão constante. Luke é ideal para jogadores que gostam de ritmo acelerado, combos curtos e ataques que mantêm o oponente na defensiva. Seus principais golpes incluem o Sand Blast (projétil de energia), o Flash Knuckle (soco carregado com múltiplas variações) e o DDT aéreo. Luke representa juventude, energia moderna e a transição da série para uma nova era."
+        },
+        {
+            "Nome": "Jamie",
+            "Gênero": "Masculino",
+            "Arquétipo": "Rushdown",
+            "EstiloDeJogo": "Pressão constante com crescimento de poder",
+            "Dificuldade": "Alta",
+            "Aparência": {
+                "Cabelo": "Longo, amarrado em rabo de cavalo, loiro escuro",
+                "Rosto": "Juvenil, brincalhão, óculos escuros",
+                "Corpo": "Atlético, magro, flexível",
+                "Altura": "Média",
+                "Traje": "Calça larga amarela, jaqueta aberta, garrafinhas penduradas na cintura",
+                "Outros": "Estilo inspirado em breakdance, animações chamativas",
+                "IdadeAparente": "20 anos"
+            },
+            "Notas": "Jamie bebe de suas garrafas para melhorar seus golpes, tornando-se mais imprevisível conforme luta avança. Exige coordenação e conhecimento do ritmo da partida. Ideal para quem gosta de personagens técnicos e estilosos.",
+            "Desc": "Jamie Siu é um homem jovem, sino-americano, de porte atlético e elegante, com cerca de 1,75 m de altura, cabelos longos amarelados amarrados em tranças laterais, olhos castanhos, e traços suaves mas determinados. Ele se veste com uma roupa moderna de dançarino urbano: camiseta aberta, calças largas com amarrações, tênis e um cinto estilizado com garrafas penduradas. Jamie é praticante de uma arte marcial inspirada no Zui Quan (estilo do bêbado), mas com um toque moderno e dançante, e incorpora elementos de breakdance em seus movimentos. Ele é o discípulo autoproclamado de Yun e Yang, personagens clássicos da série, e luta para proteger sua comunidade com uma atitude descontraída e respeitosa. Durante as lutas, Jamie bebe de suas garrafas para entrar em estados mais agressivos, liberando novos ataques e combos. Ele se move com fluidez e beleza, misturando giros, esquivas e entradas baixas com chutes circulares e socos imprevisíveis. Seu estilo recompensa jogadores com bom timing, improvisação e criatividade. Jamie simboliza juventude consciente, equilíbrio entre diversão e responsabilidade, e o uso da arte para enfrentar a violência."
+        },
+        {
+            "Nome": "Juri",
+            "Gênero": "Feminino",
+            "Arquétipo": "Rushdown / Mix-up",
+            "EstiloDeJogo": "Agressiva, veloz, imprevisível",
+            "Dificuldade": "Média-Alta",
+            "Aparência": {
+                "Cabelo": "Preto, com dois rabos altos em forma de chifres",
+                "Rosto": "Sarcástico, olhos afiados, maquiagem marcante",
+                "Corpo": "Magra, tonificada, ágil",
+                "Altura": "Média",
+                "Traje": "Roupas pretas e roxas de couro, estilo punk",
+                "Outros": "Olho cibernético, postura debochada e provocativa",
+                "IdadeAparente": "28-30 anos"
+            },
+            "Notas": "Juri é rápida, imprevisível e adora provocar. Tem golpes carregáveis e combos que exigem conhecimento dos tempos certos. Ótima para quem curte jogar agressivamente e manter o oponente sob pressão.",
+            "Desc": "Juri Han é uma mulher asiática, sul-coreana, com cerca de 1,68 m de altura, corpo esguio e atlético, pele clara e olhar cruel. Seus cabelos são pretos com mechas roxas, penteados em dois chifres para trás, e seus olhos são violeta, com o olho esquerdo substituído pelo dispositivo Fêng Shui Engine, que brilha intensamente quando ativado. Em Street Fighter 6, ela veste roupas provocativas com visual punk-cibernético, incluindo um top escuro, luvas, botas com salto, e calças abertas com tiras e fivelas que deixam parte de seu corpo à mostra. Juri é uma sádica imprevisível e gosta de humilhar seus oponentes tanto fisicamente quanto psicologicamente. Ela luta não por ideais, mas por prazer e vingança contra a organização Shadaloo, que destruiu sua família. Seu estilo de luta é baseado no Taekwondo, adaptado com velocidade extrema, chutes acrobáticos e uso tático de seu medidor especial, que pode acumular estoques para liberar ataques devastadores. Ela possui técnicas como o Fuhajin (chutes carregados com opções variadas) e ataques giratórios que confundem a defesa inimiga. Juri é uma personagem para jogadores que gostam de ofensiva agressiva, mobilidade aérea e controle criativo da partida. Ela representa o caos, a provocação e a crueldade pura no elenco."
+        },
+        {
+            "Nome": "Kimberly",
+            "Gênero": "Feminino",
+            "Arquétipo": "Rushdown / Mix-up",
+            "EstiloDeJogo": "Velocidade extrema e mobilidade",
+            "Dificuldade": "Média",
+            "Aparência": {
+                "Cabelo": "Longo, trançado, com pintura rosa e azul",
+                "Rosto": "Juvenil, olhos grandes, expressão animada",
+                "Corpo": "Atlética, esguia",
+                "Altura": "Média",
+                "Traje": "Roupa de ninja estilizada, tênis, mochila",
+                "Outros": "Faz grafite durante a luta, muito colorida e energética",
+                "IdadeAparente": "19 anos"
+            },
+            "Notas": "Kimberly é uma ninja moderna que usa ataques velozes, teleporte, bombas de tinta e muita movimentação. Excelente para jogadores que gostam de velocidade, evasão e imprevisibilidade.",
+            "Desc":"Kimberly Jackson é uma jovem mulher afro-americana com cerca de 1,60 m de altura, corpo atlético, ágil e esguio, cabelos volumosos e cacheados tingidos de azul, que ela usa presos em um rabo de cavalo alto com faixas vibrantes. Seus olhos são castanhos vivos, e sua expressão transmite energia, otimismo e ousadia. Ela se veste com um visual urbano e colorido inspirado na estética dos anos 80, usando um moletom rosa com azul, shorts curtos, meias altas e tênis esportivos, além de carregar consigo sprays de tinta como parte de sua identidade de grafiteira. Kimberly é a pupila de Guy, herdeiro do estilo Bushinryu Ninjutsu, e incorpora os ensinamentos do ninjutsu tradicional com sua personalidade moderna, rebelde e criativa. Ela ama cultura pop, música e tecnologia, e usa essas influências para transformar sua luta em uma forma de arte expressiva. Em combate, Kimberly é extremamente veloz e imprevisível, misturando movimentos ninjas com acrobacias urbanas. Ela utiliza bombas de fumaça, técnicas de teleporte, ataques aéreos e armadilhas com latas de spray para confundir o oponente. Seu estilo favorece jogadores agressivos que gostam de mobilidade, pressão constante e setups criativos. Kimberly representa a fusão entre tradição e inovação, com um espírito vibrante e inconformista."
+        },
+        {
+            "Nome": "Blanka",
+            "Gênero": "Masculino",
+            "Arquétipo": "Mix-up / Wildcard",
+            "EstiloDeJogo": "Movimentos imprevisíveis, emboscadas e armadilhas",
+            "Dificuldade": "Média",
+            "Aparência": {
+                "Cabelo": "Verde, espetado, selvagem",
+                "Rosto": "Bestial, com presas afiadas, olhos amarelos",
+                "Corpo": "Musculoso, postura selvagem",
+                "Altura": "Baixa, mas largo",
+                "Traje": "Calções rasgados, tornozeleiras de corda",
+                "Outros": "Pele verde, postura de animal, ataques elétricos",
+                "IdadeAparente": "30-35 anos"
+            },
+            "Notas": "Blanka usa ataques elétricos, investidas rodopiantes e truques com bonecos explosivos. Ideal para jogadores criativos e que gostam de pegar o oponente desprevenido. Tem estilo único e caótico.",
+            "Desc": "Blanka, nome verdadeiro Jimmy, é um homem brasileiro de aparência selvagem, com pele verde vibrante, cabelo laranja espetado e olhos amarelos ferozes. Seu corpo é musculoso, robusto e curvado em uma postura animal, lembrando mais uma criatura da selva do que um ser humano comum. Ele veste calções rasgados e acessórios indígenas como colares e braceletes de palha. Apesar da aparência assustadora, Blanka é gentil, leal e protetor, principalmente com os mais fracos e com sua mãe, que ama profundamente. Seu comportamento é excêntrico, mas com um coração puro e ingênuo. Em combate, Blanka usa técnicas de luta selvagem inspiradas em movimentos de animais, como rolamentos, mordidas e pulos rápidos. Ele é capaz de gerar eletricidade com o corpo, usando-a tanto como defesa quanto ataque. Seu estilo é imprevisível, com muitas opções de mobilidade, ataques aéreos, investidas repentinas e setups confusos. Blanka é excelente para jogadores que gostam de táticas não convencionais, surpresas e pressão constante. Ele representa o instinto, a conexão com a natureza e a bondade que sobrevive mesmo em corpos transformados pela selva."
+        },
+        {
+            "Nome": "E. Honda",
+            "Gênero": "Masculino",
+            "Arquétipo": "Grappler / Charge",
+            "EstiloDeJogo": "Poderoso em curta distância, com ataques de pressão e agarrões",
+            "Dificuldade": "Média",
+            "Aparência": {
+                "Cabelo": "Preto, com coque no topo da cabeça",
+                "Rosto": "Redondo, forte, com pintura tradicional de sumô",
+                "Corpo": "Extremamente musculoso e largo, típico de um lutador de sumô",
+                "Altura": "Média para alta (mas bem largo)",
+                "Traje": "Fundoshi azul com detalhes tradicionais",
+                "Outros": "Movimentos inspirados em sumô, postura sempre baixa e forte",
+                "IdadeAparente": "40-50 anos"
+            },
+            "Notas": "Honda é um grappler clássico com ataques de carga e múltiplos hits. Seu golpe das mil mãos pressiona oponentes, e seu agarrão aéreo surpreende. Ideal para quem gosta de personagens pesados que dominam de perto.",
+            "Desc": "Edmond Honda é um lutador japonês corpulento, do estilo sumô, com rosto largo, expressão determinada e cabelos pretos presos em um topete tradicional. Seu corpo é largo e robusto, coberto por um mawashi azul e branca, trajando apenas essa faixa em sinal de respeito às tradições do sumô. Ele carrega marcas de batalha nos ombros e peito, com uma aura de veterano experiente. Honda é disciplinado, orgulhoso e motivado pela vontade de popularizar o sumô no mundo, combinando honra com força esmagadora. Apesar de seu tamanho, ele é ágil para sua estatura e possui reflexos excelentes. Em combate, E. Honda usa palmadas poderosas, investidas frontais com o corpo e o icônico Hundred Hand Slap, onde desfere uma rajada de tapas quase inescapáveis. Ele também pode executar o Sumo Headbutt, onde lança o corpo como um projétil. Seu estilo favorece o controle do espaço de perto, pressão com defesa sólida e ataques de alto impacto. Honda representa tradição, força ancestral e a dignidade de um guerreiro que não esquece suas raízes."
+        },
+        {
+            "Nome": "Dhalsim",
+            "Gênero": "Masculino",
+            "Arquétipo": "Zoner",
+            "EstiloDeJogo": "Controle de espaço à distância",
+            "Dificuldade": "Alta",
+            "Aparência": {
+                "Cabelo": "Careca com barba branca longa",
+                "Rosto": "Envelhecido, sábio, com pintura vermelha religiosa",
+                "Corpo": "Magro, braços e pernas muito longos",
+                "Altura": "Alta (pela envergadura)",
+                "Traje": "Túnica indiana com colares de caveiras",
+                "Outros": "Flutua ao se mover, cospe fogo, postura meditativa",
+                "IdadeAparente": "60+"
+            },
+            "Notas": "Dhalsim controla o campo com membros extensíveis e ataques de fogo. Ideal para quem prefere manter distância, punir erros e jogar com calma e paciência. Requer leitura do oponente e paciência.",
+            "Desc": "Dhalsim é um homem indiano idoso, magro e espiritualizado, com pele escura, cabeça raspada exceto por um tufo de cabelo no topo, olhos brancos que indicam sua meditação profunda e uma barba branca curta. Ele tem pinturas sagradas no rosto e corpo, veste uma túnica simples laranja e colares de caveiras que simbolizam sua conexão com o ciclo da vida e da morte. Como monge e mestre iogue, Dhalsim é calmo, introspectivo e filosófico, sempre buscando evitar o conflito, mas lutando quando necessário para proteger os inocentes e manter o equilíbrio. Em combate, Dhalsim usa o estilo de ioga ancestral, com a habilidade de esticar seus membros, flutuar no ar e manipular chamas místicas. Seus ataques têm grande alcance, e ele se move de forma lenta mas deliberada, controlando o espaço com precisão. Seu estilo exige paciência, leitura do oponente e punição à distância, ideal para jogadores que gostam de zoning e controle defensivo. Dhalsim representa sabedoria ancestral, espiritualidade elevada e a crença de que o combate pode ser um caminho para a iluminação."
+        },
+        {
+            "Nome": "Zangief",
+            "Gênero": "Masculino",
+            "Arquétipo": "Grappler puro",
+            "EstiloDeJogo": "Agarrões devastadores com presença dominante em curta distância",
+            "Dificuldade": "Alta",
+            "Aparência": {
+                "Cabelo": "Curto, moicano vermelho",
+                "Rosto": "Rústico, cicatrizes, barba marcada",
+                "Corpo": "Enorme, extremamente musculoso, com peito peludo em forma de 'Z'",
+                "Altura": "Muito alto",
+                "Traje": "Sunga vermelha, botas de wrestling",
+                "Outros": "Postura de lutador profissional, presença intimidadora",
+                "IdadeAparente": "35-45 anos"
+            },
+            "Notas": "Zangief domina o jogo corpo-a-corpo com agarrões imensos e command grabs. Sofre para se aproximar, mas causa terror quando chega perto. Perfeito para quem curte pressão psicológica e punição explosiva.",
+            "Desc": "Zangief é um lutador russo imenso e musculoso, com corpo gigantesco, coberto por cicatrizes e pelos no peito em formato de estrela. Ele é calvo no topo da cabeça, mas possui uma barba espessa e ruiva, assim como uma faixa vermelha que envolve seus pulsos e tornozelos. Usa apenas uma sunga vermelha com detalhes dourados, botas de luta e cinto largo, revelando o corpo construído para suportar e causar dor. Zangief é conhecido como o Ciclone Vermelho, símbolo de força bruta e resistência inabalável da Rússia. Apesar da aparência intimidadora, ele é patriota, honrado e profundamente dedicado ao seu país, lutando para representar o poder do povo. Em combate, Zangief utiliza técnicas de wrestling e grappling, com foco em agarrões, projeções e movimentos de comando extremamente danosos. Ele se aproxima lentamente, ignorando ataques menores, até capturar o oponente em finalizações destruidoras como o Spinning Piledriver. Seu estilo é ideal para jogadores pacientes, que gostam de punições explosivas e pressão corpo a corpo. Zangief representa a força inquebrantável, o orgulho nacional e a glória do contato direto entre titãs."
+        },
+        {
+            "Nome": "Marisa",
+            "Gênero": "Feminino",
+            "Arquétipo": "Powerhouse / Brawler",
+            "EstiloDeJogo": "Golpes lentos, mas extremamente fortes, e armaduras que quebram ataques fracos",
+            "Dificuldade": "Baixa-Média",
+            "Aparência": {
+                "Cabelo": "Curto, em corte militar, ruivo intenso",
+                "Rosto": "Quadrado, traços fortes, expressão confiante",
+                "Corpo": "Imensa, musculosa, imponente",
+                "Altura": "Muito alta",
+                "Traje": "Armadura romana estilizada, cores douradas e vermelhas",
+                "Outros": "Postura reta, inspirada em gladiadores",
+                "IdadeAparente": "30-40 anos"
+            },
+            "Notas": "Marisa compensa sua lentidão com golpes que machucam muito. Vários de seus ataques têm armor (superam golpes fracos). Ideal para quem curte personagens brutais, fáceis de executar, mas difíceis de enfrentar.",
+            "Desc": "Marisa é uma mulher italiana, muito alta e extremamente musculosa, com cerca de 1,90 m de altura, cabelos ruivos cortados em um moicano estilizado para trás e olhos verdes intensos. Sua estrutura física lembra uma estátua romana viva, com braços largos, peito imenso e pernas de lutadora de elite. Ela veste uma armadura estilizada que remete aos gladiadores da Roma Antiga, com detalhes em vermelho, dourado e bronze, incluindo braceletes pesados e uma saia de couro com proteção metálica. Marisa é uma joalheira de profissão e artista plástica nas horas vagas, mas se transforma em uma força destrutiva nas arenas de combate, guiada por um senso de orgulho cultural e amor pela glória. Em luta, ela utiliza um estilo de pancadaria brutal baseado em golpes diretos, socos esmagadores e agarrões avassaladores. Ela é uma personagem lenta, mas com super-armadura em vários ataques, o que permite que ela absorva golpes e avance com pressão ininterrupta. Marisa é ideal para jogadores que gostam de personagens imponentes, com golpes que impõem respeito e grande capacidade de punição. Ela representa a força clássica, o domínio do corpo como uma arma de arte e guerra, e a majestade da tradição guerreira romana."
+        },
+        {
+            "Nome": "Manon",
+            "Gênero": "Feminino",
+            "Arquétipo": "Grappler / Graceful",
+            "EstiloDeJogo": "Combina elegância e agarrões, com sistema de crescimento de medalhas",
+            "Dificuldade": "Alta",
+            "Aparência": {
+                "Cabelo": "Loiro platinado, preso em coque elegante",
+                "Rosto": "Delicado, rosto de modelo, maquiagem leve",
+                "Corpo": "Alta, esguia, postura refinada",
+                "Altura": "Alta",
+                "Traje": "Macacão de balé preto com dourado, salto baixo",
+                "Outros": "Mistura balé e judô em seus movimentos",
+                "IdadeAparente": "25-30 anos"
+            },
+            "Notas": "Manon usa agarrões graciosos que se tornam mais fortes conforme ela acumula medalhas durante a luta. Requer conhecimento técnico e consistência. Boa para quem curte grapplers com um toque de classe.",
+            "Desc": "Manon Bernard é uma mulher francesa de cerca de 1,78 m de altura, elegante e magra, com corpo tonificado de bailarina e lutadora, cabelos loiros platinados cortados em estilo pixie assimétrico e olhos azuis gelados que transmitem altivez e serenidade. Sua aparência é refinada e artística, vestindo um traje que mescla elementos da dança clássica com o judô competitivo: um collant azul-escuro com detalhes dourados, mangas transparentes e uma faixa preta com bordados. Manon é uma estrela da dança e campeã mundial de judô, que combina essas duas paixões em um estilo de luta gracioso e mortal. Ela é elegante, orgulhosa e determinada a ser a mais bela lutadora do mundo, não apenas em técnica, mas em espírito. Em combate, Manon usa projeções de judô com fluidez de balé, lançando os adversários ao solo com leveza e precisão. Ela possui um sistema de acúmulo de medalhas durante a luta, que fortalece seus comandos de agarrão à medida que ela progride. Seu estilo é voltado para controle de espaço, contra-ataques e domínio do ritmo. Manon representa arte, precisão e uma visão estética da luta, onde cada movimento é uma coreografia que exprime poder e beleza."
+        },
+        {
+            "Nome": "Lily",
+            "Gênero": "Feminino",
+            "Arquétipo": "Mix-up / Footsies",
+            "EstiloDeJogo": "Combina golpes com alcance longo usando bastões giratórios e controle de vento",
+            "Dificuldade": "Baixa-Média",
+            "Aparência": {
+                "Cabelo": "Castanho, em duas tranças longas com fitas coloridas",
+                "Rosto": "Inocente, alegre, bochechas rosadas",
+                "Corpo": "Pequena, delicada",
+                "Altura": "Baixa",
+                "Traje": "Vestido indígena com detalhes amarelos, pulseiras e penas",
+                "Outros": "Fala com o vento, animada e gentil",
+                "IdadeAparente": "15-17 anos"
+            },
+            "Notas": "Apesar de seu tamanho, Lily tem ótimo alcance com seus bastões. Tem golpes com bom controle de espaço e comandos simples. Ótima para iniciantes que querem personagens carismáticos e com estilo único.",
+            "Desc": "Lily é uma jovem mulher indígena de origem mexicana, com estatura baixa (aproximadamente 1,50 m), corpo pequeno, mas ágil e resistente, cabelos longos e lisos presos em duas tranças grossas e olhos castanhos cheios de curiosidade e energia. Ela usa roupas tradicionais com padrões nativos coloridos, incluindo uma túnica turquesa com detalhes florais, faixas decorativas e penas como acessórios, além de carregar consigo duas maças de guerra chamadas war clubs. Lily é descendente da tribo Thunderfoot, mesma linhagem do lutador T. Hawk, e sente uma forte conexão espiritual com a natureza e o vento. Ela é alegre, espirituosa e determinada, sempre falando com seus ancestrais e ouvindo o que o mundo ao redor sussurra. Em combate, Lily combina movimentos de ataque giratórios com técnicas aéreas e investidas relâmpago. Apesar do alcance curto, ela usa suas war clubs para ampliar a zona de impacto e criar pressão com comandos rápidos e deslocamentos velozes. Seu estilo favorece jogadores que gostam de jogo aéreo, setups e movimentação constante. Lily representa leveza, conexão espiritual e a força que vem da ancestralidade e da fé inabalável nos ventos do destino."
+        },
+        {
+            "Nome": "JP",
+            "Gênero": "Masculino",
+            "Arquétipo": "Zoner / Controlador de espaço",
+            "EstiloDeJogo": "Manipulação de espaço com ataques a longa distância e controle mental",
+            "Dificuldade": "Alta",
+            "Aparência": {
+                "Cabelo": "Preto, curto, com fios bagunçados e um leve brilho",
+                "Rosto": "Sério, olhar penetrante, com barba bem aparada",
+                "Corpo": "Magro, com postura ereta",
+                "Altura": "Média",
+                "Traje": "Traje de terno escuro e gravata, elegância militar",
+                "Outros": "Postura imponente, com braços que se estendem e controlam o ambiente",
+                "IdadeAparente": "40-45 anos"
+            },
+            "Notas": "JP usa o controle mental para distorcer ataques e criar barreiras no campo de batalha. Ele exige um conhecimento profundo de manipulação de espaço, sendo ideal para jogadores estratégicos que buscam punir os erros do adversário.",
+            "Desc": "Johann Petrovich, conhecido como JP, é um homem mais velho, de origem russa, com aparência imponente e sofisticada, cabelos longos, grisalhos e bem penteados para trás, barba elegante e olhos azuis penetrantes que revelam uma mente estratégica e fria. Ele se veste com um traje de luxo, composto por um longo sobretudo azul-escuro bordado com detalhes dourados, luvas pretas e uma bengala de ponta dourada que usa tanto como símbolo de status quanto como arma. JP é o fundador de uma misteriosa organização internacional e figura por trás de operações sinistras, com vínculos sombrios com o Psycho Power. Ele é metódico, manipulador e extremamente inteligente, tratando as batalhas como um jogo de xadrez onde tudo está sob seu controle. Em combate, JP usa teletransporte, invocação de espinhos e entidades feitas de Psycho Power, criando armadilhas e zonas de pressão à distância. Seu estilo é voltado para controle total do campo, com zoning, armadilhas e técnicas para punir qualquer erro do oponente. JP é ideal para jogadores que preferem táticas mentais, paciência e domínio absoluto das condições de combate. Ele representa o poder que governa das sombras, o controle psicológico e o requinte letal da autoridade invisível."
+        },
+        {
+            "Nome": "Dee Jay",
+            "Gênero": "Masculino",
+            "Arquétipo": "Rushdown / Agitação",
+            "EstiloDeJogo": "Velocidade com golpes baseados em música e ritmo",
+            "Dificuldade": "Média",
+            "Aparência": {
+                "Cabelo": "Curto, preto, sempre estilizado",
+                "Rosto": "Sorridente, energia positiva, óculos escuros",
+                "Corpo": "Atlético, corpo definido, com uma vibe energética",
+                "Altura": "Média",
+                "Traje": "Camiseta azul com detalhes amarelos e calças largas, tênis",
+                "Outros": "Sempre em movimento, dançando durante a luta",
+                "IdadeAparente": "30-35 anos"
+            },
+            "Notas": "Dee Jay mistura música e luta, o que o torna rápido e imprevisível. Seus ataques são baseados no ritmo, o que exige timing preciso. Ótimo para jogadores que gostam de ser rápidos e aproveitar qualquer oportunidade de atacar.",
+            "Desc": "Dee Jay é um homem jamaicano, alto e musculoso, com pele escura, sorriso sempre presente e dreadlocks longos amarrados para trás. Ele usa roupas vibrantes com cores da Jamaica – regata amarela, calças laranjas e faixas verdes – e carrega sempre consigo uma energia contagiante. Dee Jay é músico, dançarino e lutador, combinando sua paixão pela vida e pela alegria com suas habilidades em combate. Ele é carismático, sociável, divertido e motivado por espalhar boas vibrações, usando a luta como forma de expressão artística e conexão com as pessoas. Em combate, Dee Jay mistura kickboxing com movimentos rítmicos e até coreografados, utilizando socos e chutes em sincronia com batidas imaginárias. Ele pode carregar ataques, projetar ondas sonoras e mudar o ritmo da luta com movimentos imprevisíveis. Seu estilo é dinâmico, com foco em ritmo, pressão e feints. Ideal para jogadores que gostam de personagens carismáticos, versáteis e difíceis de ler. Dee Jay representa alegria, música como força vital e o poder de vencer com um sorriso no rosto."
+        },
+        {
+            "Nome": "Rashid",
+            "Gênero": "Masculino",
+            "Arquétipo": "Rushdown / Mobile",
+            "EstiloDeJogo": "Alta mobilidade com ataques rápidos e evasivos",
+            "Dificuldade": "Média",
+            "Aparência": {
+                "Cabelo": "Castanho claro, bagunçado, com uma espécie de topete",
+                "Rosto": "Sorridente, jovial, sempre otimista",
+                "Corpo": "Atlético, leve e ágil",
+                "Altura": "Média",
+                "Traje": "Camisa aberta, calças curtas e tênis, estilo leve e descomplicado",
+                "Outros": "Usa turbinas para voar durante os ataques, movimento rápido e imprevisível",
+                "IdadeAparente": "20-25 anos"
+            },
+            "Notas": "Rashid é rápido, ágil e cheio de truques, ideal para quem gosta de uma jogabilidade focada na movimentação. Seus ataques aéreo e rápidos permitem criar pressão constante e punir adversários desatentos."
+        },
+        {
+            "Nome": "A.K.I.",
+            "Gênero": "Feminino",
+            "Arquétipo": "Trapper / Trickster",
+            "EstiloDeJogo": "Armadilhas venenosas e manipulação de campo",
+            "Dificuldade": "Alta",
+            "Aparência": {
+                "Cabelo": "Largo, preto com mechas roxas, fluindo como tentáculos",
+                "Rosto": "Atraente, mas com um sorriso enigmático",
+                "Corpo": "Esguia, muito ágil, com um corpo curvilíneo",
+                "Altura": "Média",
+                "Traje": "Roupas negras com elementos de estilo oriental, tiras de couro",
+                "Outros": "Postura sedutora e misteriosa, ataques venenosos e sutis",
+                "IdadeAparente": "20-25 anos"
+            },
+            "Notas": "A.K.I. é uma mestre da manipulação, usando veneno e ilusões para enganar o oponente. Seu estilo de jogo é focado em armadilhas e controle do campo. Ideal para jogadores criativos que gostam de enganar e jogar com a paciência do adversário."
+        },
+        {
+            "Nome": "Ed",
+            "Gênero": "Masculino",
+            "Arquétipo": "Hybrid / Power",
+            "EstiloDeJogo": "Golpes mistos, controle de distância e habilidades psíquicas",
+            "Dificuldade": "Média",
+            "Aparência": {
+                "Cabelo": "Loiro platinado, penteado para trás",
+                "Rosto": "Jovem, sério, com um olhar intenso",
+                "Corpo": "Atlético, com músculos visíveis, mas ágil",
+                "Altura": "Média",
+                "Traje": "Jaqueta preta, calças de couro, pulseiras de metal",
+                "Outros": "Postura confiante, utiliza seus poderes psíquicos para atacar à distância",
+                "IdadeAparente": "20-25 anos"
+            },
+            "Notas": "Ed é um personagem híbrido que combina ataques físicos com poderes psíquicos. Ele possui uma boa mistura de alcance e controle de campo, ideal para quem gosta de lutar à distância, mas também se mover de perto com agilidade."
+        },
+        {
+            "Nome": "Akuma",
+            "Gênero": "Masculino",
+            "Arquétipo": "Shoto",
+            "EstiloDeJogo": "Golpes poderosos com foco em ataques de fogo e técnicas avançadas",
+            "Dificuldade": "Alta",
+            "Aparência": {
+                "Cabelo": "Cabelos vermelhos, curtos e arrepiados",
+                "Rosto": "Expressão feroz com barba e sobrancelhas espessas",
+                "Corpo": "Musculoso e imponente",
+                "Altura": "Acima da média",
+                "Traje": "Gi vermelho sem mangas, com faixa preta na cintura e tornozelos",
+                "Outros": "Emana uma aura de energia intensa, com marcas de batalha visíveis",
+                "IdadeAparente": "45-50 anos"
+            },
+            "Notas": "Akuma é um mestre das artes marciais, conhecido por seu domínio do Satsui no Hado. Seus ataques são letais e exigem precisão e timing. Ideal para jogadores experientes que buscam um personagem com alto potencial de dano e técnicas avançadas."
+        },
+        {
+            "Nome": "Mai Shiranui",
+            "Gênero": "Feminino",
+            "Arquétipo": "Rushdown",
+            "EstiloDeJogo": "Combina ataques rápidos com leques flamejantes e técnicas de ilusão",
+            "Dificuldade": "Média",
+            "Aparência": {
+                "Cabelo": "Cabelos castanhos claros, longos e soltos",
+                "Rosto": "Rosto delicado com olhos expressivos e sorriso cativante",
+                "Corpo": "Figura esbelta com curvas acentuadas",
+                "Altura": "Média",
+                "Traje": "Roupa tradicional de ninja vermelha e branca, com detalhes dourados e leques decorativos",
+                "Outros": "Movimentos graciosos que misturam dança e combate, com presença de aura flamejante",
+                "IdadeAparente": "28-32 anos"
+            },
+            "Notas": "Mai é uma mestre do estilo Shiranui, utilizando leques flamejantes e técnicas de ilusão para confundir e atacar seus oponentes. Sua agilidade e ataques de longo alcance a tornam versátil em diversas situações. Ideal para jogadores que apreciam um estilo de jogo fluido e técnico."
+        },
+        {
+            "Nome": "M. Bison",
+            "Gênero": "Masculino",
+            "Arquétipo": "Bully / Dominador de espaço",
+            "EstiloDeJogo": "Pressão constante com golpes opressivos e controle de campo",
+            "Dificuldade": "Alta",
+            "Aparência": {
+              "Cabelo": "Longo, branco prateado, parcialmente coberto por capuz",
+              "Rosto": "Expressão sombria com olhos brilhantes emanando Psycho Power",
+              "Corpo": "Musculoso e imponente",
+              "Altura": "1,83 m",
+              "Peso": "112 kg",
+              "Traje": "Manto escuro esfarrapado com capuz, calças vermelhas e botas pretas",
+              "Outros": "Aura roxa intensa ao redor do corpo, postura ameaçadora",
+              "IdadeAparente": "45-50 anos"
+            },
+            "Notas": "M. Bison retorna em SF6 com um novo visual e estilo de jogo. Ele utiliza ataques como Psycho Crusher, Double Knee Press e Devil Reverse, agora com variações baseadas em 'Psycho Mines'. Seu estilo 'bully' pressiona o oponente com golpes seguros e difíceis de punir. Ideal para jogadores que gostam de dominar o ritmo da luta com agressividade e controle de espaço."
+        },
+        {
+        "Nome": "Terry Bogard",
+        "Gênero": "Masculino",
+        "Arquétipo": "Shoto",
+        "EstiloDeJogo": "Combina ataques diretos com movimentos especiais baseados em energia",
+        "Dificuldade": "Baixa",
+        "Aparência": {
+            "Cabelo": "Cabelos loiros, curtos e bagunçados",
+            "Rosto": "Expressão amigável com boné vermelho e óculos de sol",
+            "Corpo": "Atlético e bem definido",
+            "Altura": "Média",
+            "Traje": "Jaqueta vermelha com logotipo, camiseta branca, jeans e tênis",
+            "Outros": "Sempre com um sorriso confiante e postura relaxada",
+            "IdadeAparente": "35-40 anos"
+        },
+        "Notas": "Terry é um personagem carismático, conhecido por seu estilo de luta direto e movimentos especiais como Power Wave e Burn Knuckle. Sua abordagem acessível o torna ideal para jogadores iniciantes que desejam aprender os fundamentos do jogo. :contentReference[oaicite:1]{index=1}"
+        }
+    ]
+
+        
+}

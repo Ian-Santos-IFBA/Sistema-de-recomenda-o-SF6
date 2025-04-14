@@ -1,0 +1,490 @@
+[
+  {
+    "input": "arquétipo: shoto com estilo balanceado e dificuldade fácil | estilo: balanceado e dificuldade fácil | dificuldade: fácil",
+    "label": "Ryu"
+  },
+  {
+    "input": "arquétipo: shoto com estilo rushdown e dificuldade fácil | estilo: rushdown e dificuldade fácil | dificuldade: fácil",
+    "label": "Ken"
+  },
+  {
+    "input": "arquétipo: neutral com estilo footsies / controle de espaço e dificuldade difícil | estilo: footsies / controle de espaço e dificuldade difícil",
+    "label": "Chun-Li"
+  },
+  {
+    "input": "arquétipo: zoner com estilo defensivo e dificuldade média | estilo: defensivo e dificuldade média | dificuldade: média",
+    "label": "Guile"
+  },
+  {
+    "input": "arquétipo: rushdown com estilo velocidade e pressão constante e dificuldade média | estilo: velocidade e pressão constante e dificuldade média | dificuldade: média",
+    "label": "Cammy"
+  },
+  {
+    "input": "arquétipo: shoto com estilo pressão e combos e dificuldade fácil | estilo: pressão e combos e dificuldade fácil | dificuldade: fácil",
+    "label": "Luke"
+  },
+  {
+    "input": "arquétipo: rushdown com estilo pressão constante com crescimento de poder e dificuldade alta | estilo: pressão constante com crescimento de poder e dificuldade alta | dificuldade: alta",
+    "label": "Jamie"
+  },
+  {
+    "input": "arquétipo: rushdown / mix-up com estilo agressiva | estilo: agressiva | dificuldade: média",
+    "label": "Juri"
+  },
+  {
+    "input": "arquétipo: rushdown / mix-up com estilo velocidade extrema e mobilidade e dificuldade média | estilo: velocidade extrema e mobilidade e dificuldade média | dificuldade: média",
+    "label": "Kimberly"
+  },
+  {
+    "input": "arquétipo: mix-up / wildcard com estilo movimentos imprevisíveis | estilo: movimentos imprevisíveis | dificuldade: média",
+    "label": "Blanka"
+  },
+  {
+    "input": "arquétipo: grappler / charge com estilo poderoso em curta distância | estilo: poderoso em curta distância | dificuldade: média",
+    "label": "E. Honda"
+  },
+  {
+    "input": "arquétipo: zoner com estilo controle de espaço à distância e dificuldade alta | estilo: controle de espaço à distância e dificuldade alta | dificuldade: alta",
+    "label": "Dhalsim"
+  },
+  {
+    "input": "arquétipo: grappler puro com estilo agarrões devastadores com presença dominante em curta distância e dificuldade alta | estilo: agarrões devastadores com presença dominante em curta distância e dificuldade alta | dificuldade: alta",
+    "label": "Zangief"
+  },
+  {
+    "input": "arquétipo: powerhouse / brawler com estilo golpes lentos | estilo: golpes lentos | dificuldade: baixa",
+    "label": "Marisa"
+  },
+  {
+    "input": "arquétipo: grappler / graceful com estilo combina elegância e agarrões | estilo: combina elegância e agarrões | dificuldade: alta",
+    "label": "Manon"
+  },
+  {
+    "input": "arquétipo: mix-up / footsies com estilo combina golpes com alcance longo usando bastões giratórios e controle de vento e dificuldade baixa-média | estilo: combina golpes com alcance longo usando bastões giratórios e controle de vento e dificuldade baixa-média | dificuldade: baixa",
+    "label": "Lily"
+  },
+  {
+    "input": "arquétipo: zoner / controlador de espaço com estilo manipulação de espaço com ataques a longa distância e controle mental e dificuldade alta | estilo: manipulação de espaço com ataques a longa distância e controle mental e dificuldade alta | dificuldade: alta",
+    "label": "JP"
+  },
+  {
+    "input": "arquétipo: rushdown / agitação com estilo velocidade com golpes baseados em música e ritmo e dificuldade média | estilo: velocidade com golpes baseados em música e ritmo e dificuldade média | dificuldade: média",
+    "label": "Dee Jay"
+  },
+  {
+    "input": "estilo: inferido | cabelo: preto | roupa: kimono branco rasgado nas mangas",
+    "label": "Ryu"
+  },
+  {
+    "input": "cabelo: loiro | roupa: kimono vermelho rasgado nas mangas",
+    "label": "Ken"
+  },
+  {
+    "input": "cabelo: preto | roupa: cheongsam azul adaptado para combate",
+    "label": "Chun-Li"
+  },
+  {
+    "input": "cabelo: loiro | roupa: uniforme camuflado",
+    "label": "Guile"
+  },
+  {
+    "input": "cabelo: loiro | roupa: macacão azul justo com boina vermelha e também postura felina",
+    "label": "Cammy"
+  },
+  {
+    "input": "cabelo: loiro | roupa: camiseta esportiva",
+    "label": "Luke"
+  },
+  {
+    "input": "estilo: inspirado em breakdance | cabelo: longo | roupa: calça larga amarela",
+    "label": "Jamie"
+  },
+  {
+    "input": "estilo: punk e também olho cibernético | cabelo: preto | roupa: roupas pretas e roxas de couro",
+    "label": "Juri"
+  },
+  {
+    "input": "estilo: inferido | cabelo: longo | roupa: roupa de ninja estilizada",
+    "label": "Kimberly"
+  },
+  {
+    "input": "cabelo: verde | roupa: calções rasgados",
+    "label": "Blanka"
+  },
+  {
+    "input": "cabelo: preto | roupa: fundoshi azul com detalhes tradicionais e também movimentos inspirados em sumô",
+    "label": "E. Honda"
+  },
+  {
+    "input": "cabelo: careca com barba branca longa com o rosto envelhecido | roupa: túnica indiana com colares de caveiras e também flutua ao se mover",
+    "label": "Dhalsim"
+  },
+  {
+    "input": "cabelo: curto | roupa: sunga vermelha",
+    "label": "Zangief"
+  },
+  {
+    "input": "estilo: inferido | cabelo: curto | roupa: armadura romana estilizada",
+    "label": "Marisa"
+  },
+  {
+    "input": "cabelo: loiro platinado | roupa: macacão de balé preto com dourado",
+    "label": "Manon"
+  },
+  {
+    "input": "cabelo: castanho | roupa: vestido indígena com detalhes amarelos",
+    "label": "Lily"
+  },
+  {
+    "input": "cabelo: preto | roupa: traje de terno escuro e gravata",
+    "label": "JP"
+  },
+  {
+    "input": "cabelo: curto | roupa: camiseta azul com detalhes amarelos e calças largas",
+    "label": "Dee Jay"
+  },
+  {
+    "input": "arquétipo: rushdown / mobile com estilo alta mobilidade com ataques rápidos e evasivos e dificuldade média | estilo: alta mobilidade com ataques rápidos e evasivos e dificuldade média | dificuldade: média",
+    "label": "Rashid"
+  },
+  {
+    "input": "arquétipo: trapper / trickster com estilo armadilhas venenosas e manipulação de campo e dificuldade alta | estilo: armadilhas venenosas e manipulação de campo e dificuldade alta | dificuldade: alta",
+    "label": "A.K.I."
+  },
+  {
+    "input": "arquétipo: hybrid / power com estilo golpes mistos | estilo: golpes mistos | dificuldade: média",
+    "label": "Ed"
+  },
+  {
+    "input": "arquétipo: shoto com estilo golpes poderosos com foco em ataques de fogo e técnicas avançadas e dificuldade alta | estilo: golpes poderosos com foco em ataques de fogo e técnicas avançadas e dificuldade alta | dificuldade: alta",
+    "label": "Akuma"
+  },
+  {
+    "input": "estilo: leve e descomplicado e também usa turbinas para voar durante os ataques | cabelo: castanho claro | roupa: camisa aberta",
+    "label": "Rashid"
+  },
+  {
+    "input": "estilo: oriental | cabelo: largo | roupa: roupas negras com elementos de estilo oriental",
+    "label": "A.K.I."
+  },
+  {
+    "input": "cabelo: loiro platinado | roupa: jaqueta preta",
+    "label": "Ed"
+  },
+  {
+    "input": "estilo: inferido | cabelo: cabelos vermelhos | roupa: gi vermelho sem mangas",
+    "label": "Akuma"
+  },
+  {
+    "input": "arquétipo: rushdown com estilo combina ataques rápidos com leques flamejantes e técnicas de ilusão e dificuldade média | estilo: combina ataques rápidos com leques flamejantes e técnicas de ilusão e dificuldade média | dificuldade: média",
+    "label": "Mai Shiranui"
+  },
+  {
+    "input": "arquétipo: bully / dominador de espaço com estilo pressão constante com golpes opressivos e controle de campo e dificuldade alta | estilo: pressão constante com golpes opressivos e controle de campo e dificuldade alta | dificuldade: alta",
+    "label": "M. Bison"
+  },
+  {
+    "input": "arquétipo: shoto com estilo combina ataques diretos com movimentos especiais baseados em energia e dificuldade baixa | estilo: combina ataques diretos com movimentos especiais baseados em energia e dificuldade baixa | dificuldade: baixa",
+    "label": "Terry Bogard"
+  },
+  {
+    "input": "cabelo: cabelos castanhos claros | roupa: roupa tradicional de ninja vermelha e branca",
+    "label": "Mai Shiranui"
+  },
+  {
+    "input": "estilo: inferido | cabelo: longo | roupa: manto escuro esfarrapado com capuz",
+    "label": "M. Bison"
+  },
+  {
+    "input": "estilo: inferido | cabelo: cabelos loiros | roupa: jaqueta vermelha com logotipo",
+    "label": "Terry Bogard"
+  },
+  {
+    "input": "recomendado para: iniciantes | gênero: masculino | cabelo: castanho curto",
+    "label": "Ryu"
+  },
+  {
+    "input": "estilo: inferido | recomendado para: jogadores que gostam de pressão | gênero: masculino | cabelo: loiro espetado | roupa: vermelha e tem chamas nos ataques",
+    "label": "Ken"
+  },
+  {
+    "input": "estilo: inferido | recomendado para: quem gosta de movimentação | gênero: feminino | cabelo: castanho em coques | roupa: azul tradicional chinesa",
+    "label": "Chun-Li"
+  },
+  {
+    "input": "recomendado para: jogadores pacientes | gênero: masculino | cabelo: loiro militar | roupa: camuflada",
+    "label": "Guile"
+  },
+  {
+    "input": "recomendado para: quem gosta de ritmo intenso e mobilidade | gênero: feminino | cabelo: loiro preso em dois rabos de cavalo | roupa: verde colada",
+    "label": "Cammy"
+  },
+  {
+    "input": "recomendado para: iniciantes | gênero: masculino | cabelo: loiro curto",
+    "label": "Luke"
+  },
+  {
+    "input": "estilo: fluido e único | gênero: masculino | cabelo: preso em coque | roupa: de kung fu amarela",
+    "label": "Jamie"
+  },
+  {
+    "input": "estilo: inferido | recomendado para: avançado | gênero: feminino | cabelo: preto e longo | roupa: colada e roxa",
+    "label": "Juri"
+  },
+  {
+    "input": "estilo: inferido | gênero: feminino | cabelo: em tranças coloridas | roupa: urbana",
+    "label": "Kimberly"
+  },
+  {
+    "input": "recomendado para: quem gosta de caos | gênero: masculino | cabelo: verde bagunçado",
+    "label": "Blanka"
+  },
+  {
+    "input": "estilo: inferido | recomendado para: quem gosta de punições pesadas | gênero: masculino",
+    "label": "E. Honda"
+  },
+  {
+    "input": "estilo: inferido | recomendado para: jogadores estratégicos | gênero: masculino",
+    "label": "Dhalsim"
+  },
+  {
+    "input": "recomendado para: avançado | gênero: masculino",
+    "label": "Zangief"
+  },
+  {
+    "input": "recomendado para: quem gosta de impacto | gênero: feminino | cabelo: castanho curto em corte militar",
+    "label": "Marisa"
+  },
+  {
+    "input": "estilo: e estratégia | gênero: feminino | cabelo: loiro preso | roupa: elegante de balé",
+    "label": "Manon"
+  },
+  {
+    "input": "estilo: inferido | recomendado para: iniciantes | gênero: feminino | cabelo: preto em tranças",
+    "label": "Lily"
+  },
+  {
+    "input": "estilo: inferido | recomendado para: quem gosta de zoning e armadilhas | gênero: masculino | cabelo: branco longo | roupa: roxa nobre",
+    "label": "JP"
+  },
+  {
+    "input": "estilo: e combos criativos | recomendado para: quem gosta de estilo e combos criativos | gênero: masculino | cabelo: rastafári | roupa: verde e amarela",
+    "label": "Dee Jay"
+  },
+  {
+    "input": "estilo: inferido | recomendado para: jogadores ofensivos e estratégicos | gênero: masculino | cabelo: castanho preso | roupa: moderna com lenço",
+    "label": "Rashid"
+  },
+  {
+    "input": "estilo: inferido | recomendado para: jogadores que gostam de pressão constante e truques | gênero: feminino | cabelo: branco longo com franja | roupa: preta com aparência venenosa",
+    "label": "A.K.I."
+  },
+  {
+    "input": "estilo: inferido | gênero: masculino | cabelo: curto loiro | roupa: esportiva azul",
+    "label": "Ed"
+  },
+  {
+    "input": "recomendado para: avançado | cabelo: preto selvagem | roupa: rasgada",
+    "label": "Akuma"
+  },
+  {
+    "input": "gênero: masculino | cabelo: castanho curto",
+    "label": "Ryu"
+  },
+  {
+    "input": "estilo: inferido | gênero: masculino | cabelo: loiro espetado | roupa: vermelha e tem chamas nos ataques",
+    "label": "Ken"
+  },
+  {
+    "input": "gênero: feminino | cabelo: castanho em coques | roupa: azul tradicional chinesa",
+    "label": "Chun-Li"
+  },
+  {
+    "input": "gênero: masculino | cabelo: loiro militar | roupa: camuflada",
+    "label": "Guile"
+  },
+  {
+    "input": "gênero: feminino | cabelo: loiro preso em dois rabos de cavalo | roupa: verde colada",
+    "label": "Cammy"
+  },
+  {
+    "input": "gênero: masculino | cabelo: loiro curto",
+    "label": "Luke"
+  },
+  {
+    "input": "gênero: masculino | cabelo: preso em coque | roupa: de kung fu amarela",
+    "label": "Jamie"
+  },
+  {
+    "input": "estilo: inferido | gênero: feminino | cabelo: preto e longo | roupa: colada e roxa",
+    "label": "Juri"
+  },
+  {
+    "input": "estilo: inferido | gênero: feminino | cabelo: em tranças coloridas | roupa: urbana",
+    "label": "Kimberly"
+  },
+  {
+    "input": "gênero: masculino | cabelo: verde bagunçado",
+    "label": "Blanka"
+  },
+  {
+    "input": "gênero: masculino",
+    "label": "E. Honda"
+  },
+  {
+    "input": "gênero: masculino",
+    "label": "Dhalsim"
+  },
+  {
+    "input": "gênero: masculino",
+    "label": "Zangief"
+  },
+  {
+    "input": "gênero: feminino | cabelo: castanho curto em corte militar",
+    "label": "Marisa"
+  },
+  {
+    "input": "estilo: inferido | gênero: feminino | cabelo: loiro preso | roupa: elegante de balé",
+    "label": "Manon"
+  },
+  {
+    "input": "gênero: feminino | cabelo: preto em tranças",
+    "label": "Lily"
+  },
+  {
+    "input": "gênero: masculino | cabelo: branco longo | roupa: roxa nobre",
+    "label": "JP"
+  },
+  {
+    "input": "gênero: masculino | cabelo: rastafári | roupa: verde e amarela",
+    "label": "Dee Jay"
+  },
+  {
+    "input": "gênero: masculino | cabelo: castanho preso | roupa: moderna com lenço",
+    "label": "Rashid"
+  },
+  {
+    "input": "gênero: feminino | cabelo: branco longo com franja | roupa: preta com aparência venenosa",
+    "label": "A.K.I."
+  },
+  {
+    "input": "estilo: inferido | gênero: masculino | cabelo: curto loiro | roupa: esportiva azul",
+    "label": "Ed"
+  },
+  {
+    "input": "cabelo: preto selvagem | roupa: rasgada",
+    "label": "Akuma"
+  },
+  {
+    "input": "recomendado para: iniciantes",
+    "label": "Ryu"
+  },
+  {
+    "input": "recomendado para: iniciantes",
+    "label": "Luke"
+  },
+  {
+    "input": "estilo: inferido | recomendado para: iniciantes",
+    "label": "Lily"
+  },
+  {
+    "input": "estilo: inferido | recomendado para: jogadores que gostam de pressão",
+    "label": "Ken"
+  },
+  {
+    "input": "estilo: inferido | recomendado para: quem gosta de movimentação",
+    "label": "Chun-Li"
+  },
+  {
+    "input": "recomendado para: jogadores pacientes",
+    "label": "Guile"
+  },
+  {
+    "input": "recomendado para: quem gosta de ritmo intenso e mobilidade",
+    "label": "Cammy"
+  },
+  {
+    "input": "estilo: fluido e único",
+    "label": "Jamie"
+  },
+  {
+    "input": "estilo: inferido",
+    "label": "Kimberly"
+  },
+  {
+    "input": "recomendado para: quem gosta de caos",
+    "label": "Blanka"
+  },
+  {
+    "input": "estilo: inferido | recomendado para: jogadores estratégicos",
+    "label": "Dhalsim"
+  },
+  {
+    "input": "estilo: inferido | recomendado para: quem gosta de zoning e armadilhas",
+    "label": "JP"
+  },
+  {
+    "input": "estilo: e combos criativos | recomendado para: quem gosta de estilo e combos criativos",
+    "label": "Dee Jay"
+  },
+  {
+    "input": "estilo: inferido | recomendado para: jogadores ofensivos e estratégicos",
+    "label": "Rashid"
+  },
+  {
+    "input": "estilo: inferido | recomendado para: jogadores que gostam de pressão constante e truques",
+    "label": "A.K.I."
+  },
+  {
+    "input": "entrada: desconhecida",
+    "label": "Ed"
+  },
+  {
+    "input": "recomendado para: avançado",
+    "label": "Juri"
+  },
+  {
+    "input": "estilo: inferido | recomendado para: quem gosta de punições pesadas",
+    "label": "E. Honda"
+  },
+  {
+    "input": "recomendado para: avançado",
+    "label": "Zangief"
+  },
+  {
+    "input": "recomendado para: quem gosta de impacto",
+    "label": "Marisa"
+  },
+  {
+    "input": "estilo: e estratégia",
+    "label": "Manon"
+  },
+  {
+    "input": "recomendado para: avançado",
+    "label": "Akuma"
+  },
+  {
+    "input": "arquétipo: bully / dominador de espaço com estilo pressão constante com golpes opressivos e controle de campo e dificuldade alta | estilo: pressão constante com golpes opressivos e controle de campo e dificuldade alta | dificuldade: alta",
+    "label": "M. Bison"
+  },
+  {
+    "input": "estilo: inferido | cabelo: longo | roupa: manto escuro esfarrapado com capuz",
+    "label": "M. Bison"
+  },
+  {
+    "input": "arquétipo: rushdown com estilo combina ataques rápidos com leques flamejantes e técnicas de ilusão e dificuldade média | estilo: combina ataques rápidos com leques flamejantes e técnicas de ilusão e dificuldade média | dificuldade: média",
+    "label": "Mai Shiranui"
+  },
+  {
+    "input": "cabelo: castanho claro | roupa: traje tradicional de ninja vermelho e branco com detalhes dourados e leques decorativos e também movimentos graciosos que misturam dança e combate",
+    "label": "Mai Shiranui"
+  },
+  {
+    "input": "arquétipo: shoto com estilo combina ataques diretos com movimentos especiais baseados em energia e dificuldade baixa | estilo: combina ataques diretos com movimentos especiais baseados em energia e dificuldade baixa | dificuldade: baixa",
+    "label": "Terry Bogard"
+  },
+  {
+    "input": "estilo: inferido | cabelo: loiro | roupa: jaqueta vermelha com logotipo",
+    "label": "Terry Bogard"
+  }
+]

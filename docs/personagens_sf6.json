@@ -342,7 +342,8 @@
                 "Outros": "Usa turbinas para voar durante os ataques, movimento rápido e imprevisível",
                 "IdadeAparente": "20-25 anos"
             },
-            "Notas": "Rashid é rápido, ágil e cheio de truques, ideal para quem gosta de uma jogabilidade focada na movimentação. Seus ataques aéreo e rápidos permitem criar pressão constante e punir adversários desatentos."
+            "Notas": "Rashid é rápido, ágil e cheio de truques, ideal para quem gosta de uma jogabilidade focada na movimentação. Seus ataques aéreo e rápidos permitem criar pressão constante e punir adversários desatentos.",
+            "Desc": "Rashid é rápido, ágil e cheio de truques, ideal para quem gosta de uma jogabilidade focada na movimentação. Seus ataques aéreo e rápidos permitem criar pressão constante e punir adversários desatentos."
         },
         {
             "Nome": "A.K.I.",
@@ -410,6 +411,7 @@
                 "Outros": "Movimentos graciosos que misturam dança e combate, com presença de aura flamejante",
                 "IdadeAparente": "28-32 anos"
             },
+            "Desc": "Mai é uma mestre do estilo Shiranui, utilizando leques flamejantes e técnicas de ilusão para confundir e atacar seus oponentes. Sua agilidade e ataques de longo alcance a tornam versátil em diversas situações. Ideal para jogadores que apreciam um estilo de jogo fluido e técnico.",
             "Notas": "Mai é uma mestre do estilo Shiranui, utilizando leques flamejantes e técnicas de ilusão para confundir e atacar seus oponentes. Sua agilidade e ataques de longo alcance a tornam versátil em diversas situações. Ideal para jogadores que apreciam um estilo de jogo fluido e técnico."
         },
         {

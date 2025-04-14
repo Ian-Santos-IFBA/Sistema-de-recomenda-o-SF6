@@ -24,9 +24,8 @@ def main():
 
     if(usuario_pergunta):
 
-        for y in resposta(usuario_pergunta):
-            personagem = y
-
+        personagem = resposta(usuario_pergunta)
+        
         texto = f"{personagem} é uma boa opção para você"
         desc = descricao_personagem(personagem)
 
